@@ -22,4 +22,4 @@ I love read some books and binge watch some detective series on Netflix (sometim
 ```
 
 
-🌱 I’m currently working to update and clean up my github repository and start writing a blog
+🌱 I’m currently working on in updating and cleaning up my github repository and start writing a blog
