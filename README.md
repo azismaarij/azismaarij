@@ -6,17 +6,20 @@
 </p>
 
 - 📫 Contact : **maarijamil@gmail.com**
-- ⚡ Interests : **Data Analytics, Visualization & Fraud Analytics** ❤
+- ⚡ Interests : **Data Analytics, Visualization, Fraud Analytics & Finance Data Analytics** ❤
 
 ### 💬 About Me:
 ```
-I am a meticulous data professional with 4+ years of experiences.
+Skills: Customer Analytics, Data Visualization, Fraud Analytics, Data Governance, Finance and Investor Reporting
+Tools: SQL, BigQuery, Python, Tableau, Metabase, Git, Airflow, DBT, Neo4j, OneStream
+
 I loved to get dirty to translate raw messy data into actionable insights.
 On daily basis I am working using SQL, Python and Presentation Decs.
 
-Currently working in Kitabisa.com, the biggest social crowdfunding company in Indonesia.
-Previously worked in Gojek, a Decacorn startup in SEA.
-My skills & experience span across Fintech, Insuretech, Crowdfunding, and Ride-Hailing products/verticals.
+A meticulous professional with over 6 years of versatile experience encompassing technical expertise across business, product, and finance realms, I specialize in aiding decision-makers with data-driven insights.
+My approach is deeply rooted in a technical, product-centric perspective and commercial finance knowledge.
+Collaborating closely with cross-functional teams, I drive forward key metrics, leveraging my adaptability and rapid learning in dynamic environments.
+My expertise spans diverse industries including Travel, Fintech, Insuretech, Crowdfunding,  and Ride-Hailing Companies.
 
 I love read some books and binge watch some detective series on Netflix (sometimes K-Drama too)
 ```
