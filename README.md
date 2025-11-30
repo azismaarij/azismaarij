@@ -29,6 +29,6 @@ During my time in Kitabisa I maintained internal Visualization competition, and 
 I love read some books and binge watch some detective series on Netflix (sometimes K-Drama too)
 ```
 
-✍️ Please visit my personal blog here : [Substack](https://substack.com/@ajamil?utm_campaign=profile&utm_medium=profile-page) & [Medium](https://medium.com/@AMJamil) <br>
+✍️ Please visit my personal blog here : [Substack](https://ajamil.substack.com/) & [Medium](https://medium.com/@AMJamil) <br>
 🌱 I’m currently working on in updating and cleaning up my github repository 🤞
 
